@@ -1,0 +1,11 @@
+streamlit 
+pandas
+cv2 
+tempfile
+streamlit_webrtc
+face_recognition
+os
+numpy
+datetime
+pickle
+ios
