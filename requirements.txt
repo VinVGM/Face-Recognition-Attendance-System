@@ -1,11 +1,6 @@
 streamlit 
 pandas
 opencv-python
-tempfile
+
 streamlit_webrtc
 face_recognition
-os
-numpy
-datetime
-pickle
-ios
