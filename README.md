@@ -17,3 +17,8 @@ Time of arrival is also marked.
 ## Prerequisites
 * List of students enrolled in the class
 * Each Students's facial data has to be registered during first run.
+
+
+## Contributors
+* Pranesh Shivaachalam R M
+* Muthuram M
