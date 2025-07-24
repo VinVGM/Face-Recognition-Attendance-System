@@ -82,7 +82,7 @@ while cap.isOpened() and not stop_button_pressed:
     
     
     
-    press
+    
 
     
 
