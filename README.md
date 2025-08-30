@@ -33,14 +33,14 @@ Time of arrival is also marked.
 
 ## Setup
 
-1. **Prepare student images**
-   - Place student photos in the `pages/student_images/` directory
-   - Use clear, front-facing photos for best recognition accuracy
-   - Supported formats: JPG, JPEG, PNG
-
-2. **Configure the system**
+1. **Configure the system**
    - Ensure your webcam is connected and accessible
    - Check that all required packages are installed correctly
+
+2. **Register students (first-time setup)**
+   - Use the "Attendance Register" page to add new students
+   - Take photos of students during the registration process
+   - Photos are automatically captured and stored by the system
 
 ## Running the Application
 
@@ -55,8 +55,8 @@ Time of arrival is also marked.
 
 3. **Using the application**
    - **Welcome Page**: Main entry point with navigation
-   - **Take Attendance**: Use camera to detect and mark student attendance
-   - **Attendance Register**: View and manage attendance records
+   - **Attendance Register**: Register new students and capture their photos for face recognition
+   - **Take Attendance**: Use camera to detect registered students and mark attendance
 
 ## Troubleshooting
 
